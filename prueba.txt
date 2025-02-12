@@ -1,2 +1,4 @@
 "Hola Clase"
 "Nuevo texto modificado"
+
+"Cambio en rama usuario2"
